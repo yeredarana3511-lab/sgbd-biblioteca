@@ -10,3 +10,4 @@ SQLITE_DB_PATH = os.path.join(DATA_DIR, "biblioteca.db")
 MONGO_URI = "mongodb://localhost:27017/"
 MONGO_DB_NAME = "biblioteca_logs"
 MONGO_COLLECTION_NAME = "bitacora"
+
